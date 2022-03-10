@@ -1,4 +1,4 @@
-# COSC-314-Project
+# Square a matrix
 Given a square matrix A and a positive integer n, find A^n.
 
 tests/outputs:
